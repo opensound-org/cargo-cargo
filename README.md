@@ -1,4 +1,8 @@
 # cargo-cargo
+
+![Crates.io Total Downloads](https://img.shields.io/crates/d/cargo-cargo)
+![GitHub Repo stars](https://img.shields.io/github/stars/opensound-org/cargo-cargo)
+
 Happy April Fools' Day!
 
 ```
