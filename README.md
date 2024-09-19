@@ -5,6 +5,10 @@
 
 Happy April Fools' Day!
 
+This project was first created on April Fool's Day in 2024 and was released as an April Fool's joke. But this project can also exist as a long-term toy, so you can install or use it at any time!
+
+## Usage
+
 ```
 cargo install cargo-cargo
 ```
