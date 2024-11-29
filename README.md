@@ -29,6 +29,10 @@ On your project.
 
 Have fun!
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=opensound-org/cargo-cargo&type=Date)](https://star-history.com/#opensound-org/cargo-cargo&Date)
+
 # License
 
 This project is licensed under either of
